@@ -1,1 +1,2 @@
 # trainingAppManagement
+Author - Muskan Shrivastava
